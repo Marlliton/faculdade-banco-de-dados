@@ -18,3 +18,5 @@ INSERT INTO aluno
     56, -- creditos_cursado
     8.0 -- media_geral
 );
+
+SELECT * FROM aluno;
